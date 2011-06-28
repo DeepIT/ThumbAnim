@@ -1,0 +1,5 @@
+Animation for when new documents creation. iWork-Style like.
+Resize an offscreen document with Zoom-in + Fade-in effect.
+Just one method as addons for NSWindow:
+
+ -(void)animateFromFrame:(NSRect)fromRect toFrame:(NSRect)toRect;
