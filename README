@@ -1,5 +1,5 @@
 iWork-Style like animation on new documents creation.
-Resize an offscreen document with Zoom-in + Fade-in effect.
-Just one method as addons for NSWindow:
+Resizes and shows an offscreen document with Zoom-in + Fade-in effect.
+Just one method as addon for NSWindow:
 
  -(void)animateFromFrame:(NSRect)fromRect toFrame:(NSRect)toRect;
